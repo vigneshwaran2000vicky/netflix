@@ -1,0 +1,54 @@
+*{margin: 0;padding: 0;}
+.logo{width: 80px; background: transparent; }
+.sub{display: flex; margin: 20px; align-items: center;
+     justify-content: space-around; width: 25%;}
+.head{display: flex; align-items: center;
+     justify-content: space-between; margin-left: 15%; margin-right: 15%;  }
+.eng{width: 50%; color: white; background-color:black;border-radius: 3px; border-color: 2px white;
+       font-size: x-small; padding: 2px; margin-left: 10%;}
+.bt1{background-color: brown; border-radius: 3px;; color: white;  width: 40%; border: 0; height: 20px;}
+.bottom{ margin-top: 10%; color: white; font-size:15px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; }
+.email{width: 30%; height: 25px;margin-left: 25%; border: 0; padding-left: 10px; background: transparent; box-shadow: -94px -7px 210px 77px rgba(0,0,0,0.46) inset; }
+.bt2{height: 25px; margin-left:3px; width: 16%; background-color: brown; border: 0; border-radius: 3px;}
+header{display: flex;}
+.shocase{ background-image: url(bck.jpg); padding-bottom: 45px;background-size:cover ;box-shadow: 12px -8px 37px 76px rgba(0,0,0,0.88) inset;}
+center{font-weight: bold;}
+
+.second{display: flex;justify-content:space-evenly; align-items: center; padding-top: 5%; background-color: black; padding-bottom: 8%;}
+.qq{margin-left: 10%; width: 70%; color: white; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-size: small;}
+.tv{margin-left: 10%; align-items: center}
+
+.mm2{display: flex; color: white;  background-color: black; margin-left: 10%; margin-right: 65%; padding-top: 5px; padding-bottom: 5px; border-radius: 6px; }
+.para {padding-left: 10px;font-size: x-small;text-align: center; margin-top: 8px;}
+.three2{display: flex; justify-content:baseline; align-items:baseline ;}
+.mm2{position: absolute; margin-left: 50px; margin-top:17% ; padding-right: 60px; }
+.doe{font-size: x-small; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; color: white; }
+.three{padding-bottom: 8%;display: flex; justify-content: space-around; background-color: black; align-items: center;}
+
+.four1{align-items: center; color: rgb(241, 238, 238); font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;margin-left: 8%;} 
+.ff{padding-top: 5%;}
+.four{padding-bottom: 4%;display: flex; justify-content: space-around; align-items: center; background-color: black ; padding-top: 5%;}
+
+
+.five2{color: white; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+.five{padding-bottom: 8%;display: flex; justify-content: space-around; background-color: black; align-items: center;}
+
+.option{display: flex; justify-content: space-between; align-items: center; background-color: rgb(105, 102, 102); width: 70%; padding: 15px 0 15px 0; margin-left: 15%; margin-top: 3%; padding-left: 10px; padding-right: 10px;}
+.option1{display: flex; justify-content: space-between; align-items: center; background-color: rgb(105, 102, 102); width: 70%; padding: 15px 0 15px 0;margin-top: 5px ; margin-left: 15%; padding-left: 10px; padding-right: 10px;}
+.six{background-color: black;padding-bottom: 8%;}
+.option:hover{transform: scale(0.99);}
+.option1:hover{transform: scale(0.99);}
+
+.ss{ width: 30%; height: 30px; border-radius: 3px; border: 0; padding-left: 10px; color:white; font-weight: bold; background-color: rgb(231, 206, 206);}
+.start{  width: 15%;height: 33px; color: white; background-color: brown; font-weight: bold; border: 0; border-radius: 3px;}
+.seven{background-color: black; text-align: center; padding-top: 1%; padding-bottom: 8%;}
+.eight{display: flex; justify-content: space-around; align-items: center; margin-top: 3%;   background-color: black;}
+footer{background-color: black; ; color: white ; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; padding-left: 30px;}
+.po{padding-top: 5%; padding-left: 20px; font-size: small; font-weight: normal; }
+.eight ul  li {color: white; list-style:none; font-size: x-small; font-weight: normal;}
+
+.bb{ height: 24px; border-radius: 3px; border: 0; background-color: rgb(75, 73, 73);width: 20%;}
+.bb1{background-color: rgb(75, 73, 73); border: 0; color: white; padding-right: 1px;}
+.in{font-size: x-small; color: white; margin-top: 10px; }
+.nine{background-color: black; padding-left: 10%; padding-top: 3%; padding-bottom: 10%;}
+hr{padding: 0.3%; background-color: rgb(66, 65, 65);border-color: black;}
